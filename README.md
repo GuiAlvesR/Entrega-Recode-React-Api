@@ -1,5 +1,5 @@
-# Projeto Agencia De Viajens - React - Api - Entrega Recode
-Projeto react consumindo api(somente GetterAll e GetById)
+# Projeto Agencia De Viajens - React - APISpring - Entrega Recode
+Projeto react consumindo api em Spring(somente GetterAll e GetById)
 
 ## Getting Started with Create React App
 
